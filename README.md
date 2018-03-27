@@ -29,8 +29,6 @@ We've designed the course so that you could sign up in the morining and come in 
 
 Begin the course by working in command-line environment (CLI), saving revisions of work in git, learning how to apply HTML tags, and authoring valid markup.
 
-![](./img/git_merge.gif)
-
 ### Week 2: Forms, Input Fields, Basic Styling
 
 Week 2 expands on how to use HTML tags in order to create input fields with forms, pulling data from other sites via `<iframe>` (Inline Frame), and embedding media. We'll also learn how separation of content from presentation, element targeting for CSS, and basic styling.
@@ -39,7 +37,7 @@ Week 2 expands on how to use HTML tags in order to create input fields with form
 
 Having learned to style basic pages in Week 2, we'll now learn advanced styles of layout, including how to serve content on multiple devices using media queries such as “flexbox” and “CSS grid.”
 
-![](./img/typography.jpg)
+<img src="./img/typography.jpg" alt="GIF of viewing source" height="420" width="320" />
 
 ### Week 4: Project 1
 
