@@ -37,7 +37,7 @@ Week 2 expands on how to use HTML tags in order to create input fields with form
 
 Having learned to style basic pages in Week 2, we'll now learn advanced styles of layout, including how to serve content on multiple devices using media queries such as “flexbox” and “CSS grid.”
 
-<img src="./img/typography.jpg" alt="GIF of viewing source" height="420" width="320" />
+<img src="./img/grid.gif" alt="Grid reflow"/>
 
 ### Week 4: Project 1
 
