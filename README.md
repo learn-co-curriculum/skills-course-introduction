@@ -25,7 +25,7 @@ We've designed the course so that you could sign up in the morining and come in 
 
 ### Orientation & Week 1: Command Line, Git, Intro HTML
 
-![](./img/view_source.gif)
+<img src="./img/view_source.gif" alt="GIF of viewing source" height="420" width="320" />
 
 Begin the course by working in command-line environment (CLI), saving revisions of work in git, learning how to apply HTML tags, and authoring valid markup.
 
