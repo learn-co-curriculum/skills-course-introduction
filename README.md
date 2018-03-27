@@ -1,4 +1,4 @@
-# Front End Web Development 
+# Front End Web Development
 
 ## Welcome
 
@@ -23,9 +23,13 @@ We've designed the course so that you could sign up in the morining and come in 
 
 ## Syllabus
 
-### Orientation & Week 1: Command Line, Git, Intro HTML 
+### Orientation & Week 1: Command Line, Git, Intro HTML
+
+![](./img/view_source.gif)
 
 Begin the course by working in command-line environment (CLI), saving revisions of work in git, learning how to apply HTML tags, and authoring valid markup.
+
+![](./img/git_merge.gif)
 
 ### Week 2: Forms, Input Fields, Basic Styling
 
@@ -35,15 +39,19 @@ Week 2 expands on how to use HTML tags in order to create input fields with form
 
 Having learned to style basic pages in Week 2, we'll now learn advanced styles of layout, including how to serve content on multiple devices using media queries such as “flexbox” and “CSS grid.”
 
+![](./img/typography.jpg)
+
 ### Week 4: Project 1
 
 Week 4 serves as a chance to review what we’ve learned to this point and to complete the first portfolio project: a hosted site with a responsive presentation based on screen size (i.e. mobile device, tablet, or computer).
 
 ### Week 5: JavaScript, DOM
 
+![](./img/js.gif)
+
 Week 5 will introduce JavaScript (the language of the browser) and the DOM (Document-Object Model). We'll train up on our basic programming idioms: variable declaration / assignment, conditional logic, loops, if-statements, and functional declaration / invocation. These will be required to utilize JavaScript but are common to _all_ programming languages.
 
-### Week 6: JavaScript, DOM 
+### Week 6: JavaScript, DOM
 
 Week 6 focuses on practicing using JavaScript as a general problem-solving language. We'll take the next step and learn to manipulate composite data types and utilize DOM knowledge from Week 5 to display aggregated data stores.
 
@@ -60,6 +68,8 @@ What was it that made GMail such a revolution over previous webmail clients? Wha
 In week 9, we'll integrate all the material learned in the first 8 weeks and begin developing their final project that unites page structure in HTML, style in CSS, and provides interactivity with JavaScript.
 
 ### Week 10: Finish Project 2
+
+![](./img/wedding-invite-demo-2.gif)
 
 In the final week of the course, we'll finish building the second project, which will be viewable on GitHub.
 

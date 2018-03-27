@@ -1,0 +1,14 @@
+--2018-03-27 16:19:35--  https://media.giphy.com/media/v4nRdG68DroY0/giphy.gif
+Resolving media.giphy.com (media.giphy.com)... 151.101.34.2
+Connecting to media.giphy.com (media.giphy.com)|151.101.34.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165465 (162K) [image/gif]
+Saving to: ‘giphy.gif.1’
+
+     0K .......... .......... .......... .......... .......... 30%  333K 0s
+    50K .......... .......... .......... .......... .......... 61%  280K 0s
+   100K .......... .......... .......... .......... .......... 92% 24.5M 0s
+   150K .......... .                                          100%  119K=0.4s
+
+2018-03-27 16:19:36 (377 KB/s) - ‘giphy.gif.1’ saved [165465/165465]
+
