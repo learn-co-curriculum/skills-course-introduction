@@ -12,7 +12,7 @@ Here's what to expect in your 10-week course:
 
 * Six hours per week of class time with your instructor and fellow students
 * Four additional hours of practice and homework on your own each week
-* connect online day and night with our community of other students and tecnical coaches
+* Connect online day and night with our community of other students and tecnical coaches
 * Attend campus events to network with our community
 
 Each week your instructor will "release" the week's next set of assignments. We do this so that the course can be responsive to the pace of the class.
