@@ -25,7 +25,7 @@ We've designed the course so that you could sign up in the morining and come in 
 
 ### Orientation & Week 1: Command Line, Git, Intro HTML
 
-<img src="./img/view_source.gif" alt="GIF of viewing source" height="420" width="320" />
+<img src="https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/view_source.gif" alt="GIF of viewing source" height="420" width="320" />
 
 Begin the course by working in command-line environment (CLI), saving revisions of work in git, learning how to apply HTML tags, and authoring valid markup.
 
@@ -37,7 +37,7 @@ Week 2 expands on how to use HTML tags in order to create input fields with form
 
 Having learned to style basic pages in Week 2, we'll now learn advanced styles of layout, including how to serve content on multiple devices using media queries such as “flexbox” and “CSS grid.”
 
-<img src="./img/grid.gif" alt="Grid reflow"/>
+<img src="https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/grid.gif" alt="Grid reflow"/>
 
 ### Week 4: Project 1
 
@@ -45,7 +45,7 @@ Week 4 serves as a chance to review what we’ve learned to this point and to co
 
 ### Week 5: JavaScript, DOM
 
-![](./img/js.gif)
+![JavaScript maniupulating graphic elements](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/js.gif)
 
 Week 5 will introduce JavaScript (the language of the browser) and the DOM (Document-Object Model). We'll train up on our basic programming idioms: variable declaration / assignment, conditional logic, loops, if-statements, and functional declaration / invocation. These will be required to utilize JavaScript but are common to _all_ programming languages.
 
@@ -67,7 +67,7 @@ In week 9, we'll integrate all the material learned in the first 8 weeks and beg
 
 ### Week 10: Finish Project 2
 
-![](./img/wedding-invite-demo-2.gif)
+![Demo Application GIF](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/wedding-invite-demo-2.gif)
 
 In the final week of the course, we'll finish building the second project, which will be viewable on GitHub.
 
