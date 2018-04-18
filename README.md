@@ -59,11 +59,11 @@ JavaScript exists in the browser and events drive user interaction with the brow
 
 ### Week 8: AJAX, Third Party Data
 
-What was it that made GMail such a revolution over previous webmail clients? What is it that creates the infinite scroll? Somehow browsers know how to seamlessly fetch data to keep the experience fast and pretty. The tool to accomplish this is "AJAX" and we'll be exploring it this week &mdash; and how it requires to to think in terms of non-linear program execution.
+What was it that made GMail such a revolution over previous webmail clients? What is it that creates the infinite scroll? Somehow browsers know how to seamlessly fetch data to keep the experience fast and pretty. The tool to accomplish this is "AJAX" and we'll be exploring it this week &mdash; and how it requires us to think in terms of non-linear program execution.
 
 ### Week 9: Begin Project 2
 
-In week 9, we'll integrate all the material learned in the first 8 weeks and begin developing their final project that unites page structure in HTML, style in CSS, and provides interactivity with JavaScript.
+In week 9, we'll integrate all the material learned in the first 8 weeks and begin developing a final project that unites page structure in HTML, style in CSS, and provides interactivity with JavaScript.
 
 ### Week 10: Finish Project 2
 
