@@ -4,7 +4,7 @@
 
 Welcome to Flatiron School’s Intro to Front End Web Development.  We’re delighted that you have chosen to learn to code with us.  In our 10-week, part-time course, you’ll learn the fundamentals of front-end web development - including including HTML (HyperText Markup Language), CSS (Cascading Style Sheets), and programming with JavaScript.
 
-Whether your goal is to perfect your CMS, build your own site, or code for fun —this course will ensure you don’t only speak code, but possess the insight to create it on your own.
+Whether your goal is to perfect your CMS, build your own site, or code for fun —this course will ensure you don’t only gain the ability to _read others' code_, you gain the insight to _create it on your own_.
 
 ## Expectation Setting
 
@@ -12,14 +12,14 @@ Here's what to expect in your 10-week course:
 
 * Six hours per week of class time with your instructor and fellow students
 * Four additional hours of practice and homework on your own each week
-* Connect online day and night with our community of other students and tecnical coaches
+* Connect online day and night with our community of other students and technical coaches
 * Attend campus events to network with our community
 
 Each week your instructor will "release" the week's next set of assignments. We do this so that the course can be responsive to the pace of the class.
 
 ## Preparation
 
-We've designed the course so that you could sign up in the morining and come in the evening. Our only request is that you sign up for an account with [GitHub](http://www.github.com) and come with a computer, a sense of curiosity, and a willingness to learn something new.
+We designed the course so that you could sign up in the morining of the first class and come in the evening – no prior experience required. Our only request is that you sign up for an account with [GitHub](http://www.github.com) and come with a computer, a sense of curiosity, and a willingness to learn something new.
 
 ## Syllabus
 
@@ -27,7 +27,7 @@ We've designed the course so that you could sign up in the morining and come in 
 
 <img src="https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/view_source.gif" alt="GIF of viewing source" height="420" width="320" />
 
-Begin the course by working in command-line environment (CLI), saving revisions of work in git, learning how to apply HTML tags, and authoring valid markup.
+Begin the course by working in command-line environment (CLI), saving revisions of work in `git`, learning how to apply HTML tags, and authoring valid markup.
 
 ### Week 2: Forms, Input Fields, Basic Styling
 
