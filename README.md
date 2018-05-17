@@ -19,7 +19,7 @@ Each week your instructor will "release" the week's next set of assignments. We 
 
 ## Preparation
 
-We designed the course so that you could sign up in the morining of the first class and come in the evening – no prior experience required. Our only request is that you sign up for an account with [GitHub](http://www.github.com) and come with a computer, a sense of curiosity, and a willingness to learn something new.
+We designed the course so that you could sign up in the morning of the first class and come in the evening – no prior experience required. Our only request is that you sign up for an account with [GitHub](http://www.github.com) and come with a computer, a sense of curiosity, and a willingness to learn something new.
 
 ## Syllabus
 
@@ -45,7 +45,7 @@ Week 4 serves as a chance to review what we’ve learned to this point and to co
 
 ### Week 5: JavaScript, DOM
 
-![JavaScript maniupulating graphic elements](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/js.gif)
+![JavaScript manipulating graphic elements](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/js.gif)
 
 Week 5 will introduce JavaScript (the language of the browser) and the DOM (Document-Object Model). We'll train up on our basic programming idioms: variable declaration / assignment, conditional logic, loops, if-statements, and functional declaration / invocation. These will be required to utilize JavaScript but are common to _all_ programming languages.
 
