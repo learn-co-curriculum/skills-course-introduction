@@ -64,7 +64,7 @@ presentation based on screen size (i.e. mobile device, tablet, or computer).
 ![JavaScript changing graphic elements](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/js.gif)
 
 Week 5 will introduce JavaScript (the language of the browser) and the DOM
-(Document-Object Model). We'll train up on our basic programming idioms:
+(Document-Object Model). We'll train up on our basic programming skills:
 
 * Declaring and assigning variables
 * Making decisions
