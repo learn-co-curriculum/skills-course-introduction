@@ -8,16 +8,16 @@ course, you’ll learn the fundamentals of front-end web development &mdash;
 including including HTML (HyperText Markup Language), CSS (Cascading Style
 Sheets), and programming with JavaScript.
 
-Whether your goal is to perfect your CMS, build your own site, or code for fun,
-this course will ensure you not only gain the ability to _read others' code_,
-you gain the insight to _create it on your own_.
+Whether your goal is to perfect your CMS, build your own site, or code for
+fun, this course will ensure you not only gain the power to _read others'
+code_, you gain the insight to _create it on your own_.
 
 ## Expectations
 
 Here's what to expect in your 10-week course:
 
 * Six hours per week of class time with your instructor and fellow students
-* Four additional hours of practice and homework on your own each week
+* Four extra hours of practice and homework on your own each week
 * Connect online day and night with our community of other students and
   technical coaches
 * Attend campus events to network with our community
@@ -26,11 +26,8 @@ Each week your instructor will "release" the next week's set of assignments.
 
 ## Preparation
 
-We designed the course so that you could sign up in the morning of the first
-class and come in the evening &mdash; no prior experience is required. Our
-**only** request is that you sign up for an account with [GitHub][] and come
-with a computer, a sense of curiosity, and a willingness to learn something
-new.
+No prior experience is required. You _do_ need to sign up for an account with
+[GitHub][] though. Be sure to bring a computer and an open mind as well!
 
 ## Syllabus
 
@@ -38,8 +35,8 @@ new.
 
 <img src="https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/view_source.gif" alt="GIF of viewing source" height="420" width="320" />
 
-Begin the course by working in command-line environment (CLI), saving revisions
-of work in `git`, learning how to apply HTML tags, and authoring valid markup.
+Begin the course by working in command-line environment (CLI) and learning to
+write valid HTML.
 
 ### Week 2: Forms, Input Fields, Basic Styling
 
@@ -50,55 +47,58 @@ element targeting for CSS, and basic styling.
 
 ### Week 3: Advanced Layouts, Flexbox, CSS Grid
 
-Having learned to style basic pages in Week 2, we'll now learn advanced styles
-of layout, including how to serve content on multiple devices using media
-queries such as "flexbox" and "CSS grid."
+We learned to style basic pages in Week 2. Now learn advanced types of layout
+so that sites look great on tablets, phones, and computers.  We'll use the
+"flexbox" and "CSS grid" techniques to make this happen.
 
 <img src="https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/grid.gif" alt="Grid reflow"/>
 
 ### Week 4: Project 1
 
-Week 4 serves as a chance to review what we’ve learned to this point and to
+Week 4 serves as a chance to review what we've learned to this point and to
 complete the first portfolio project: a hosted site with a responsive
 presentation based on screen size (i.e. mobile device, tablet, or computer).
 
 ### Week 5: JavaScript, DOM
 
-![JavaScript manipulating graphic elements](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/js.gif)
+![JavaScript changing graphic elements](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/js.gif)
 
 Week 5 will introduce JavaScript (the language of the browser) and the DOM
 (Document-Object Model). We'll train up on our basic programming idioms:
-variable declaration / assignment, conditional logic, loops, if-statements, and
-functional declaration / invocation. These will be required to utilize
-JavaScript but are common to _all_ programming languages.
 
-### Week 6: JavaScript, DOM
+* Declaring and assigning variables
+* Making decisions
+* Repeating steps
+* Declaring and running functions
 
-Week 6 focuses on practicing using JavaScript as a general problem-solving
-language. We'll take the next step and learn to manipulate composite data types
-and utilize DOM knowledge from Week 5 to display aggregated data stores.
+These skills will be required to utilize JavaScript but are common to
+_all_ programming languages.
+
+### Week 6: JavaScript, DOM, Version Control
+
+In Week 6 we'll practice using JavaScript as a general programming
+language. We'll take the next step and learn to work with Objects and
+Arrays. These are data types that contain _other_ data types. We will
+use the DOM skills from Week 5 to display the data contained in Arrays
+and Objects.
 
 ### Week 7: Eventing
 
-JavaScript exists in the browser and events drive user interaction with the
-browser: click, double-click, scroll, etc. We'll learn to update the screen by
-associating changes to the display with events.
+The browser is an event-based environment: clicking, scrolling, etc. To respond
+to those events, we'll need to learn about how JavaScript handles events. We'll
+learn to update the screen by linking events to screen updates.
 
 ### Week 8: AJAX, Third Party Data
 
-What was it that made GMail such a revolution over previous webmail clients?
-What is it that creates the infinite scroll? Somehow browsers know how to
+What is it that creates the "infinite scroll?" Somehow browsers know how to
 seamlessly fetch data to keep the experience fast and pretty. The tool to
-accomplish this is "AJAX" and we'll be exploring it this week &mdash; and how
-it requires us to think in terms of non-linear program execution. If that
-sounds complicated or scary, you're going to be overjoyed when you master it in
-a mere 8 weeks' time!
+accomplish this is "AJAX" and we'll be exploring it this week.
 
 ### Week 9: Begin Project 2
 
 In week 9, we'll integrate all the material learned in the first 8 weeks and
-begin developing a final project that unites page structure in HTML, style in
-CSS, and provides interactivity with JavaScript.
+begin making a final project that unites page structure in HTML, style in
+CSS, and provides fast feedback with JavaScript.
 
 ### Week 10: Finish Project 2
 
