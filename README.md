@@ -96,7 +96,7 @@ accomplish this is "AJAX" and we'll be exploring it this week.
 
 ### Week 9: Begin Project 2
 
-In week 9, we'll integrate all the material learned in the first 8 weeks and
+In Week 9, we'll integrate all the material learned in the first 8 weeks and
 begin making a final project that unites page structure in HTML, style in
 CSS, and provides fast feedback with JavaScript.
 
