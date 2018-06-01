@@ -31,7 +31,7 @@ No prior experience is required. You _do_ need to sign up for an account with
 
 ## Syllabus
 
-### Orientation & Week 1: Command Line, Git, Intro HTML
+### Orientation & Week 1: Command Line, Intro HTML
 
 <img src="https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/view_source.gif" alt="GIF of viewing source" height="420" width="320" />
 
@@ -74,7 +74,7 @@ Week 5 will introduce JavaScript (the language of the browser) and the DOM
 These skills will be required to utilize JavaScript but are common to
 _all_ programming languages.
 
-### Week 6: JavaScript, DOM, Version Control
+### Week 6: JavaScript, DOM, Version Control (`git`)
 
 In Week 6 we'll practice using JavaScript as a general programming
 language. We'll take the next step and learn to work with Objects and
