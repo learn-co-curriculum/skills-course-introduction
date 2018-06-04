@@ -59,7 +59,7 @@ Week 4 serves as a chance to review what we've learned to this point and to
 complete the first portfolio project: a hosted site with a responsive
 presentation based on screen size (i.e. mobile device, tablet, or computer).
 
-### Week 5: JavaScript, DOM
+### Week 5: Introducing JavaScript, DOM
 
 ![JavaScript changing graphic elements](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/js.gif)
 
@@ -74,7 +74,7 @@ Week 5 will introduce JavaScript (the language of the browser) and the DOM
 These skills will be required to utilize JavaScript but are common to
 _all_ programming languages.
 
-### Week 6: JavaScript, DOM, Version Control (`git`)
+### Week 6: More JavaScript, DOM, Version Control (git)
 
 In Week 6 we'll practice using JavaScript as a general programming
 language. We'll take the next step and learn to work with Objects and
