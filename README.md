@@ -80,7 +80,10 @@ In Week 6 we'll practice using JavaScript as a general programming
 language. We'll take the next step and learn to work with Objects and
 Arrays. These are data types that contain _other_ data types. We will
 use the DOM skills from Week 5 to display the data contained in Arrays
-and Objects.
+and Objects. We'll also learn how developers keep track of their work 
+using the git Version Control System and collaborate with others using 
+GitHub.
+
 
 ### Week 7: Eventing
 
