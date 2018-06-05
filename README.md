@@ -8,9 +8,9 @@ course, you’ll learn the fundamentals of front-end web development &mdash;
 including including HTML (HyperText Markup Language), CSS (Cascading Style
 Sheets), and programming with JavaScript.
 
-Whether your goal is to perfect your CMS, build your own site, or code for
-fun, this course will ensure you not only gain the power to _read others'
-code_, you gain the insight to _create it on your own_.
+Whether your goal is to build a website, style an email newsletter or 
+collaborate with developers, this course will ensure you not only gain the 
+power to _read others' code_, you gain the insight to _create it on your own_.
 
 ## Expectations
 
@@ -59,7 +59,7 @@ Week 4 serves as a chance to review what we've learned to this point and to
 complete the first portfolio project: a hosted site with a responsive
 presentation based on screen size (i.e. mobile device, tablet, or computer).
 
-### Week 5: JavaScript, DOM
+### Week 5: Introducing JavaScript, DOM
 
 ![JavaScript changing graphic elements](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/skills-course-introduction/js.gif)
 
@@ -74,13 +74,16 @@ Week 5 will introduce JavaScript (the language of the browser) and the DOM
 These skills will be required to utilize JavaScript but are common to
 _all_ programming languages.
 
-### Week 6: JavaScript, DOM, Version Control (`git`)
+### Week 6: More JavaScript, DOM, Version Control (git)
 
 In Week 6 we'll practice using JavaScript as a general programming
 language. We'll take the next step and learn to work with Objects and
 Arrays. These are data types that contain _other_ data types. We will
 use the DOM skills from Week 5 to display the data contained in Arrays
-and Objects.
+and Objects. We'll also learn how developers keep track of their work 
+using the git Version Control System and collaborate with others using 
+GitHub.
+
 
 ### Week 7: Eventing
 
