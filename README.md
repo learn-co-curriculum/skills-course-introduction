@@ -21,6 +21,8 @@ Here's what to expect in your 10-week course:
 * Connect online day and night with our community of other students and
   technical coaches
 * Attend campus events to network with our community
+* You can use AAQ for help while you're taking the course
+* WeWork membership - you can come anytime!
 
 Each week your instructor will "release" the next week's set of assignments.
 
