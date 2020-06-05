@@ -1,18 +1,26 @@
 # Front End Web Development
 
-## Welcome
+## Introduction
 
-Welcome to Flatiron School’s Intro to Front End Web Development. We’re
-delighted that you have chosen to learn with us. In this part-time
-course, you’ll learn the fundamentals of front-end web development &mdash;
-including including HTML (HyperText Markup Language), CSS (Cascading Style
-Sheets), and programming with JavaScript.
+Congratulations on graduating from your program!!! It may not have been easy, but you persevered and have become a designer. Next, you will need to prepare to start your job search and continue to develop your talents.
 
-Whether your goal is to build a website, style an email newsletter or 
-collaborate with developers, this course will ensure you not only gain the 
-power to _read others' code_, you gain the insight to _create it on your own_.
+This roadmap will help you chart a course through the next six months as you embark on your journey. It can be hard to know what to do in the unstructured time that follows an intensive program, especially without the regular social contact, routines, or accountability that supported you through it. Now that you are a graduate, it is up to you to establish that structure for yourself. This lesson includes some recommendations for how to structure your time week-to-week and over the coming months.
 
-## Syllabus
+In this part-time course, you’ll learn the fundamentals of front-end web development &mdash; including including HTML (HyperText Markup Language), CSS (Cascading Style Sheets), and programming with JavaScript.
+
+Whether your goal is to build a website, style an email newsletter or collaborate with developers, this course will ensure you not only gain the power to _read others' code_, you gain the insight to _create it on your own_.
+
+## Identify Your Tasks
+
+Think about dividing your time up among tasks in three buckets, roughly in order of priority:
+
+1. Career Services Commitment
+2. Upskilling (this course) & Portfolio Development
+3. Your To-Do List
+
+## Syllabus and Roadmap
+
+Plan to take up to two weeks on each of the sections below. Note that the speed at which you move through this course is less important than the level of understanding you reach. While you're going through the lessons and labs, try to understand how you might apply what you're learning to design work that you've done in the past in order to contextualize the material you're learning.
 
 ### Section 1: The Learn IDE And Basic HTML
 
